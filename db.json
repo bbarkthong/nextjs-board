@@ -9,6 +9,21 @@
       "id": 2,
       "title": "css",
       "body": "css is ..."
+    },
+    {
+      "title": "react",
+      "body": "React is ...",
+      "id": 4
+    },
+    {
+      "title": "javascript",
+      "body": "f",
+      "id": 5
+    },
+    {
+      "title": "11",
+      "body": "23",
+      "id": 6
     }
   ],
   "posts": [
